@@ -1,6 +1,6 @@
 # Parallélisation en temps pour la résolution numérique d'équations différentielles
 
-Projet de M1 à l'université de Bourgogne sur la parallélisation en temps des méthodes numériques de résolution d'équations différentielles ordinaires. 
+Projet de M1 à l'université de Bourgogne sur la parallélisation en temps de méthodes numériques pour la résolution d'équations différentielles ordinaires. 
 
 Ce projet est une introduction à la parallélisation en temps. 
 Il a pour but d'introduire l'algorithme Parararéel après avoir vu quelques méthodes numériques ainsi que la théorie de ces méthodes. 
