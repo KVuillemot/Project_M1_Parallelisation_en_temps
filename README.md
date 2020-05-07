@@ -7,7 +7,7 @@ Il a pour but d'introduire l'algorithme Parararéel après avoir vu quelques mé
 
 # Fichiers inclus 
 1. Un pdf pour une approche théorique de ce projet,
-1. Un notebook avec différentes implémentations ainsi que des exemples.
+1. Un notebook avec différentes implémentations de méthodes numériques et de l'algorithme Pararéel ainsi que des exemples.
 
 # Description
 * Le pdf est composé de quelques rappels théoriques sur la notion d'équations différentielles et notamment la théorie des EDO. Il est également composé d'une introduction théorique aux méthodes numériques de résolution des EDO et des EDP. Finalement, une partie sera consacrée aux méthodes de tirs multiples ainsi qu'à la théorie de l'algorithme Pararéel.
